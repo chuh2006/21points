@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/33554/Documents/learn/game/21/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Game21.dir\\main.cpp.obj -c C:\\Users\\33554\\Documents\\learn\\game\\21\\main.cpp",
+  "file": "C:/Users/33554/Documents/learn/game/21/main.cpp",
+  "output": "CMakeFiles/Game21.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/33554/Documents/learn/game/21/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Game21.dir\\game.cpp.obj -c C:\\Users\\33554\\Documents\\learn\\game\\21\\game.cpp",
+  "file": "C:/Users/33554/Documents/learn/game/21/game.cpp",
+  "output": "CMakeFiles/Game21.dir/game.cpp.obj"
+},
+{
+  "directory": "C:/Users/33554/Documents/learn/game/21/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Game21.dir\\player.cpp.obj -c C:\\Users\\33554\\Documents\\learn\\game\\21\\player.cpp",
+  "file": "C:/Users/33554/Documents/learn/game/21/player.cpp",
+  "output": "CMakeFiles/Game21.dir/player.cpp.obj"
+}
+]
